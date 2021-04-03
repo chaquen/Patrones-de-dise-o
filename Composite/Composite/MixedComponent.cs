@@ -9,10 +9,6 @@ public abstract class MixedComponent
         Price = price;
         AlcoholGrade = alcoholGrade;
     }
-    public MixedComponent(string name, decimal price){
-        Name = name;
-        Price = price;       
-    }
     public MixedComponent(string name) {
         Name = name;
     }
