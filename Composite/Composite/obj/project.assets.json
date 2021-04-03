@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/chaquen/Documents/Dev/DotNet/Composite/Composite/Composite.csproj",
+      "projectUniqueName": "/home/chaquen/Documents/Dev/DotNet/DesignPatterns/Composite/Composite/Composite.csproj",
       "projectName": "Composite",
-      "projectPath": "/home/chaquen/Documents/Dev/DotNet/Composite/Composite/Composite.csproj",
+      "projectPath": "/home/chaquen/Documents/Dev/DotNet/DesignPatterns/Composite/Composite/Composite.csproj",
       "packagesPath": "/home/chaquen/.nuget/packages/",
-      "outputPath": "/home/chaquen/Documents/Dev/DotNet/Composite/Composite/obj/",
+      "outputPath": "/home/chaquen/Documents/Dev/DotNet/DesignPatterns/Composite/Composite/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/chaquen/.nuget/NuGet/NuGet.Config"

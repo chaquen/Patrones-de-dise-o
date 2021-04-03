@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6810K/489wGPH0CCAKCswXZ81P8WZs69o2GsnxGoLCVhz5rrzhyHoOip+GCKbfKgQaUAd4QbHg2hj91L30Vbbg==",
+  "dgSpecHash": "8PLXGpyZ169y2hldPpMF5sW6fU8hucjn9BRHQbAz3s5aDnjFDqveHXG9ygdUR+yXmcJi1VY8u6XKPQuYNbOglA==",
   "success": true,
-  "projectFilePath": "/home/chaquen/Documents/Dev/DotNet/Composite/Composite/Composite.csproj",
+  "projectFilePath": "/home/chaquen/Documents/Dev/DotNet/DesignPatterns/Composite/Composite/Composite.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
